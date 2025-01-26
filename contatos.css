@@ -1,0 +1,51 @@
+.card{
+    width: 60%;
+    height: 120px;
+    background-color: beige;
+    margin:  auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    border: 5px solid blue;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    gap: 20px;
+
+}
+
+#imagem-insta{
+    width: 90px;
+    height: 90px;
+    border-radius:50% ;
+    
+}
+
+#direct{
+  text-align: left;
+  color: blue;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0px;
+ 
+
+}
+
+.membros{
+    width: 90px;
+    height: 90px;
+    border-radius:50% ;
+    transition: transform 0.3s ease; /* Suaviza o aumento */
+}
+
+.membros:hover {
+    transform: scale(1.2); /* Aumenta a imagem em 20% */
+}
+
+
+
+    .estilo{
+        text-decoration: none;
+         color: green;
+          font-size: 20px;
+    }
