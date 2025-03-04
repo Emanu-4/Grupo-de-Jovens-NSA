@@ -1,0 +1,118 @@
+@media  (min-width: 1600px) {
+    .bloco-02{
+        font-size: 40px;
+        }
+
+        #social{
+            font-size: 60px;
+            
+          }
+
+          ul li {
+            font-size: 30px;
+           
+        }
+}
+@media  (min-width: 1023px) {
+    #instaicon{
+        width: 40px;
+       
+      }
+}
+@media  (max-width: 1023px) {
+   
+    .custom-select{
+        display: block;
+    } 
+    .nav-container{
+        display: none;
+    }
+
+    #titulo{
+        margin: 20%;
+    }
+
+    header {
+        margin: 10px;
+    }
+    #instaicon{
+        width: 40px;
+       
+      }
+}
+
+@media  (max-width: 800px) {
+    #conteiner{
+        display: block;
+    }
+
+    #foto{
+        width: 80%;
+        height: auto;
+        margin: 10%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+            
+          }
+
+          .bloco-01{
+            width: 90%;
+            height: auto;
+            margin: auto;
+            
+    
+          }
+    
+          .bloco-02{
+            width: 90%;
+            height: auto;
+            margin: auto; 
+    
+          }
+}
+
+@media  (max-width: 700px) {
+    #titulo{
+        margin: 10%;
+    }
+   
+
+}
+
+
+@media  (max-width: 620px) {
+    #titulo{
+        margin: 6%;
+    }
+    #instaicon{
+        width: 40px;
+       
+      }
+
+}
+
+@media  (max-width: 570px) {
+    #titulo{
+        margin: 3%;
+    }
+    
+
+}
+
+@media  (max-width: 481px) {
+    #titulo{
+        font-size: 20px;
+        margin: 5%;
+    }
+       
+
+      #social{
+        font-size: 29px;
+        
+      }
+
+}
+
+
+
+
